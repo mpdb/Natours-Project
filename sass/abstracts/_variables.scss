@@ -12,6 +12,7 @@ $color-tertiary-dark: #5643fa;
 $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #eeeeee;
 
+$color-grey-darkest: #333;
 $color-grey-dark: #777;
 $color-grey-dark-2: #999;
 
@@ -19,7 +20,7 @@ $color-white: #fff;
 $color-black: #000;
 
 //BOX-SHADOWS
-$box-shadow-primary: 0 1.5rem 4rem rgba($color-black, 0.2);
+$box-shadow-primary: 0 2rem 4rem rgba($color-black, 0.2);
 $box-shadow-btn-hover: 0 1rem 2rem rgba($color-black, 0.2);
 $box-shadow-btn-active: 0 0.5rem 1rem rgba($color-black, 0.2);
 
